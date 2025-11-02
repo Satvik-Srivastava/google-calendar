@@ -125,3 +125,14 @@ The application will be running at `http://localhost:5173` with the API at `http
 ### Registration Page
 <img src="public/registration.png" alt="Registration Interface" width="400"/>
 *User registration and authentication interface*
+
+---
+
+## Connect with me
+
+If you'd like to reach out, connect with me on X (Twitter):
+
+[https://x.com/unknownrtiist](https://x.com/unknownrtiist)
+
+Feel free to DM me there for collaboration or questions.
+
