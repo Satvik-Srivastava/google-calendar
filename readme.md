@@ -122,9 +122,9 @@ The application will be running at `http://localhost:5173` with the API at `http
 *Main calendar interface showing month view with events*
 
 ### Calendar Events View
-<img src="public/Homescreen2.png" alt="Calendar Events" width="800"/>
+<img src="public/Homescreen2.png" alt="Calendar Events" width="600"/>
 *Calendar interface with event list and sidebar*
 
 ### Registration Page
-<img src="public/registration.png" alt="Registration Interface" width="600"/>
+<img src="public/registration.png" alt="Registration Interface" width="400"/>
 *User registration and authentication interface*
