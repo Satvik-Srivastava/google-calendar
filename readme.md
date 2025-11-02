@@ -90,7 +90,6 @@ The application will be running at `http://localhost:5173` with the API at `http
 ## Future Enhancements
 
 1. **Calendar Views**
-   - Week view implementation
    - Year view
    - Agenda view
    - Mini calendar widget
@@ -112,8 +111,6 @@ The application will be running at `http://localhost:5173` with the API at `http
    - Offline support with service workers
    - Unit and integration tests
    - Mobile app version
-
-
 
 ## Application Screenshots
 
