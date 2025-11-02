@@ -117,11 +117,14 @@ The application will be running at `http://localhost:5173` with the API at `http
 
 ## Application Screenshots
 
-### Month View Calendar
-<img src="./public/Homescreen.png" alt="Month View Calendar" width="100%" style="max-width: 1200px; border: 1px solid #ddd; border-radius: 8px; margin: 20px 0;" />
+### Calendar Main View
+![Calendar Main View](public/Homescreen.png)
+*Main calendar interface showing month view with events*
 
-### User Registration Interface
-<img src="./public/registration.png" alt="Registration Page" width="100%" style="max-width: 1200px; border: 1px solid #ddd; border-radius: 8px; margin: 20px 0;" />
+### Calendar Events View
+<img src="public/Homescreen2.png" alt="Calendar Events" width="800"/>
+*Calendar interface with event list and sidebar*
 
-### Calendar with Events View
-<img src="./public/Homescreen2.png" alt="Calendar with Events" width="100%" style="max-width: 1200px; border: 1px solid #ddd; border-radius: 8px; margin: 20px 0;" />
+### Registration Page
+<img src="public/registration.png" alt="Registration Interface" width="600"/>
+*User registration and authentication interface*
