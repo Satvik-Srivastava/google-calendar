@@ -115,13 +115,13 @@ The application will be running at `http://localhost:5173` with the API at `http
 
 
 
-## Previews
+## Application Screenshots
 
-#### Month view
-![image](public/googlecalendarclone.png)
+### Month View Calendar
+<img src="./public/Homescreen.png" alt="Month View Calendar" width="100%" style="max-width: 1200px; border: 1px solid #ddd; border-radius: 8px; margin: 20px 0;" />
 
-#### Day view
-![image](public/2023-05-22_225209.png)
+### User Registration Interface
+<img src="./public/registration.png" alt="Registration Page" width="100%" style="max-width: 1200px; border: 1px solid #ddd; border-radius: 8px; margin: 20px 0;" />
 
-### Add Event Modal
-![image](public/2023-05-22_232200.png)
+### Calendar with Events View
+<img src="./public/Homescreen2.png" alt="Calendar with Events" width="100%" style="max-width: 1200px; border: 1px solid #ddd; border-radius: 8px; margin: 20px 0;" />
